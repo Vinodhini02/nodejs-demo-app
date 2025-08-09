@@ -14,7 +14,7 @@ This project demonstrates a simple Node.js application deployed via a CI/CD pipe
 
 ## Setup
 
-1. *Clone this repository*
+*Clone this repository*
 ```bash
 git clone https://github.com/Vinodhini02/nodejs-demo-app.git
 cd nodejs-demo-app
